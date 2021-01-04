@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KotlinPractice.iml" filepath="$PROJECT_DIR$/.idea/KotlinPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinPractice/kotlinPractice.iml" filepath="$PROJECT_DIR$/kotlinPractice/kotlinPractice.iml" />
+    </modules>
+  </component>
+</project>
